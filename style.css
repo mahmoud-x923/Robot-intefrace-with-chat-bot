@@ -98,7 +98,7 @@ label{
 }
 
 .movement-btns .btn input{
-    padding: 15px;
+    padding: 23px 15px;
     width: 90%;
     border-radius: 30%;
     background-color: #000;
@@ -126,7 +126,6 @@ label{
 }
 .movement-btns .stop input{
     color:#f00;
-    /* font-size: 20px; */
     padding: 23px 15px;
 }
 
