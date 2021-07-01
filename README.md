@@ -26,6 +26,8 @@ Down at the south will display movement status.
 Interacting with chat bot will be the most simple thisng you will do in your life. **Just ask anything related to the robot and how to control it** , its arm and its base.
 If you ran to any misunderstanding issue with the bot try to rephrase what you mean and try to use synonyms if possible.
 
-## Some More Info About The Chat Bot
+## Some More Information About The Chat Bot
 I tried to provide the bot as much of intents and entities as possible, in fact I did my best to train it about misleading questions and odd synonyms.
 The chat bot is positioned at the bottom right of the GUI in *Gui.php*. 
+
+![chat bot screenshot](https://github.com/mahmoud-x923/task2_robot/blob/main/bot.png)
