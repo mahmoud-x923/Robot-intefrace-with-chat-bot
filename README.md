@@ -3,7 +3,7 @@
 ## Contents
 *  *dataBase.sql*: contain the database with two tables for arm and base.
 *  *Gui.php*; The front end control of the robot .
-*  *angles.php*: A file that retieves arm angles's values from database.
+*  *angles.php*: A file that retieves arm angles values from database.
 *  *direction.php: A file that retrieves base direction and movement status from database. 
 *  *style.css*: The main style for the GUI.
 *  *script.js*: The main script for the GUI.
