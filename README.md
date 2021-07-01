@@ -1,4 +1,4 @@
-# task 2 robot
+# Task 3 Robot With Chat Bot
 
 ## Contents
 *  *dataBase.sql*: contain the database with two tables for arm and base.
@@ -7,6 +7,7 @@
 *  *direction.php: A file that retrieves base direction and movement status from database. 
 *  *style.css*: The main style for the GUI.
 *  *script.js*: The main script for the GUI.
+*  *skill-conversation.json*: A file contain entities, intents and dialog nodes related to chat bot.
 
 ## How To Use our GUI
 ### Arm
@@ -20,3 +21,11 @@ Down at the south will display movement status.
 ## How to fetch robot data
 * **Arm data** : all you need to do is to access the *angles.php* which contains the data.
 * **Base data** : all you need to do is to access the *direction.php* which contains the data. 
+
+## How to interact with the chat bot
+Interacting with chat bot will be the most simple thisng you will do in your life. **Just ask anything related to the robot and how to control it** , its arm and its base.
+If you ran to any misunderstanding issue with the bot try to rephrase what you mean and try to use synonyms if possible.
+
+## Some More Info About The Chat Bot
+I tried to provide the bot as much of intents and entities as possible, in fact I did my best to train it about misleading questions and odd synonyms.
+The chat bot is positioned at the bottom right of the GUI in *Gui.php*. 
