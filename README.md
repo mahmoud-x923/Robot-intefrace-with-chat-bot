@@ -1,4 +1,4 @@
-# Task 3 Robot With Chat Bot
+# Robot Control Interface With Chat Bot
 
 ## Contents
 *  *dataBase.sql*: contain the database with two tables for arm and base.
